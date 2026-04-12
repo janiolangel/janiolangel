@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=janiolangel&fontSize=64&fontColor=c9a96e&fontAlignY=55&desc=building%20with%20intention%20·%20guided%20by%20faith&descSize=14&descAlignY=75&descFontColor=b8a99a&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=janiolangel&fontSize=64&fontColor=ffe566&fontAlignY=55&desc=building%20with%20intention%20·%20guided%20by%20faith&descSize=14&descAlignY=75&descFontColor=ffd700&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -16,7 +16,7 @@ BS Computer Science  ·  University of the Philippines Visayas  ·  she/her
 
 <div align="center">
   <a href="https://github.com/janiolangel">
-    <img src="https://komarev.com/ghpvc/?username=janiolangel&style=flat-square&color=c9a96e&label=profile+views" />
+    <img src="https://komarev.com/ghpvc/?username=janiolangel&style=flat-square&color=ffd700&label=profile+views" />
   </a>
 </div>
 
@@ -42,16 +42,16 @@ I'm a Computer Science student at UP Visayas — someone who moves quietly but b
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=c9a96e)
-![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=c9a96e)
-![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logoColor=c9a96e)
-![Java](https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=c9a96e)
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=c9a96e)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=c9a96e)
-![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=c9a96e)
-![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=c9a96e)
-![Flutter](https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=c9a96e)
-![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=c9a96e)
+![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=ffe566)
+![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=ffe566)
+![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logoColor=ffe566)
+![Java](https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=ffe566)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=ffe566)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=ffe566)
+![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=ffe566)
+![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=ffe566)
+![Flutter](https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=ffe566)
+![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=ffe566)
 
 </div>
 
@@ -86,15 +86,15 @@ Concurrent Banking (CMSC-125):
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=janiolangel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=c9a96e&icon_color=c9a96e&text_color=e8d5c4&bg_color=0d0d0d" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=janiolangel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ffe566&icon_color=ffd700&text_color=fff5cc&bg_color=0d0d0d" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiolangel&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=c9a96e&text_color=e8d5c4&bg_color=0d0d0d" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiolangel&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=ffe566&text_color=fff5cc&bg_color=0d0d0d" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=janiolangel&theme=react-dark&hide_border=true&area=true&color=c9a96e&line=c9a96e&point=e8d5c4&area_color=c9a96e" />
+  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=janiolangel&theme=react-dark&hide_border=true&area=true&color=ffe566&line=ffd700&point=fff5cc&area_color=ffd700" />
 </div>
 
 <br/>
@@ -120,9 +120,9 @@ Concurrent Banking (CMSC-125):
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@janiolangel-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=c9a96e)](https://instagram.com/janiolangel)
-[![Facebook](https://img.shields.io/badge/Angel%20May%20Janiola-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=c9a96e)](https://facebook.com/Angel-May-Janiola)
-[![Email](https://img.shields.io/badge/abjaniola@up.edu.ph-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=c9a96e)](mailto:abjaniola@up.edu.ph)
+[![Instagram](https://img.shields.io/badge/@janiolangel-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=ffe566)](https://instagram.com/janiolangel)
+[![Facebook](https://img.shields.io/badge/Angel%20May%20Janiola-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=ffe566)](https://facebook.com/Angel-May-Janiola)
+[![Email](https://img.shields.io/badge/abjaniola@up.edu.ph-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=ffe566)](mailto:abjaniola@up.edu.ph)
 
 </div>
 
