@@ -24,7 +24,7 @@ BS Computer Science  ·  University of the Philippines Visayas  ·  she/her
 
 ---
 
-### &nbsp;` ✦ who i am `
+### &nbsp;` ✦ WHO I AM `
 
 <br/>
 
@@ -82,14 +82,6 @@ Concurrent Banking (CMSC-125):
 ---
 
 ### &nbsp;` ✦ stats `
-
-<br/>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=janiolangel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ffe566&icon_color=ffd700&text_color=fff5cc&bg_color=0d0d0d" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiolangel&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=ffe566&text_color=fff5cc&bg_color=0d0d0d" />
-</div>
 
 <br/>
 
