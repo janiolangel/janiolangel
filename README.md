@@ -12,16 +12,6 @@ BS Computer Science  ·  University of the Philippines Visayas  ·  she/her
 
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/janiolangel">
-    <img src="https://komarev.com/ghpvc/?username=janiolangel&style=flat-square&color=ffd700&label=profile+views" />
-  </a>
-</div>
-
-<br/>
-
 ---
 
 ### &nbsp;` ✦ WHO I AM `
