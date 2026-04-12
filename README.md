@@ -2,29 +2,35 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=janiolangel&fontSize=64&fontColor=ffe566&fontAlignY=55&desc=building%20with%20intention%20·%20guided%20by%20faith&descSize=14&descAlignY=75&descFontColor=ffd700&animation=fadeIn" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
 
 ```
-BS Computer Science  ·  University of the Philippines Visayas  ·  she/her
+BS Computer Science  ·  University of the Philippines Visayas  ·  She/Her
 ```
+</div>
+
+
+<br/>
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/@janiolangel-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=ffe566)](https://instagram.com/janiolangel)
+[![Facebook](https://img.shields.io/badge/Angel%20May%20Janiola-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=ffe566)](https://facebook.com/Angel-May-Janiola)
+[![Email](https://img.shields.io/badge/abjaniola@up.edu.ph-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=ffe566)](mailto:abjaniola@up.edu.ph)
 
 </div>
+
+<br/>
+
 
 ---
 
 ### &nbsp;` ✦ WHO I AM `
-
-<br/>
 
 I'm a Computer Science student at UP Visayas — someone who moves quietly but builds with conviction. I'm drawn to the low-level stuff: the assembly, the bits, the things most people don't want to touch. But I care just as much about the human side of software — things that feel good to use, things that matter to people. My faith sits at the center of everything I do. I don't separate who I am from what I make.
 
 > *"My words align with His will — and it is done."* &nbsp;**— Job 22:28**
 
 <br/>
-
----
 
 ### &nbsp;` ✦ STACK `
 
@@ -77,22 +83,6 @@ Concurrent Banking (CMSC-125):
 
 <div align="center">
   <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=janiolangel&theme=react-dark&hide_border=true&area=true&color=ffe566&line=ffd700&point=fff5cc&area_color=ffd700" />
-</div>
-
-<br/>
-
----
-
-### &nbsp;` ✦ FIND ME `
-
-<br/>
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/@janiolangel-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=ffe566)](https://instagram.com/janiolangel)
-[![Facebook](https://img.shields.io/badge/Angel%20May%20Janiola-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=ffe566)](https://facebook.com/Angel-May-Janiola)
-[![Email](https://img.shields.io/badge/abjaniola@up.edu.ph-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=ffe566)](mailto:abjaniola@up.edu.ph)
-
 </div>
 
 <br/>
