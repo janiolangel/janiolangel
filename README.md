@@ -26,8 +26,6 @@ BS Computer Science  ·  University of the Philippines Visayas  ·  She/Her
 
 I'm a Computer Science student at UP Visayas — someone who moves quietly but builds with conviction. I'm drawn to the low-level stuff: the assembly, the bits, the things most people don't want to touch. But I care just as much about the human side of software — things that feel good to use, things that matter to people. My faith sits at the center of everything I do. I don't separate who I am from what I make.
 
-> *"My words align with His will — and it is done."* &nbsp;**— Job 22:28**
-
 
 ### &nbsp;` ✦ STACK `
 
