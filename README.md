@@ -4,22 +4,20 @@
 
 <div align="center">
 
-```
-BS Computer Science  ·  University of the Philippines Visayas  ·  She/Her
-```
-</div>
-
-
-<br/>
-<div align="center">
-
 [![Instagram](https://img.shields.io/badge/@janiolangel-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=ffe566)](https://instagram.com/janiolangel)
 [![Facebook](https://img.shields.io/badge/Angel%20May%20Janiola-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=ffe566)](https://facebook.com/Angel-May-Janiola)
 [![Email](https://img.shields.io/badge/abjaniola@up.edu.ph-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=ffe566)](mailto:abjaniola@up.edu.ph)
 
 </div>
 
-<br/>
+
+<div align="center">
+
+```
+BS Computer Science  ·  University of the Philippines Visayas  ·  She/Her
+```
+</div>
+
 
 
 ---
@@ -30,11 +28,9 @@ I'm a Computer Science student at UP Visayas — someone who moves quietly but b
 
 > *"My words align with His will — and it is done."* &nbsp;**— Job 22:28**
 
-<br/>
 
 ### &nbsp;` ✦ STACK `
 
-<br/>
 
 <div align="center">
 
@@ -51,13 +47,11 @@ I'm a Computer Science student at UP Visayas — someone who moves quietly but b
 
 </div>
 
-<br/>
 
 ---
 
 ### &nbsp;` ✦ PROJECTS `
 
-<br/>
 
 ```yaml
 CMSC-131:
