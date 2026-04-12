@@ -36,7 +36,7 @@ I'm a Computer Science student at UP Visayas — someone who moves quietly but b
 
 ---
 
-### &nbsp;` ✦ stack `
+### &nbsp;` ✦ STACK `
 
 <br/>
 
@@ -59,7 +59,7 @@ I'm a Computer Science student at UP Visayas — someone who moves quietly but b
 
 ---
 
-### &nbsp;` ✦ projects `
+### &nbsp;` ✦ PROJECTS `
 
 <br/>
 
@@ -81,7 +81,7 @@ Concurrent Banking (CMSC-125):
 
 ---
 
-### &nbsp;` ✦ stats `
+### &nbsp;` ✦ STATS `
 
 <br/>
 
@@ -93,20 +93,7 @@ Concurrent Banking (CMSC-125):
 
 ---
 
-### &nbsp;` ✦ right now `
-
-<br/>
-
-- wrestling with **concurrent systems** and winning (mostly)
-- building for mobile with **Flutter**
-- staying close to the hardware, always
-- trusting the process &nbsp;🕊️
-
-<br/>
-
----
-
-### &nbsp;` ✦ find me `
+### &nbsp;` ✦ FIND ME `
 
 <br/>
 
