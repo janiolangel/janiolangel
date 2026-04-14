@@ -16,24 +16,27 @@
 
 A Computer Science student at the University of the Philippines Visayas with a focus on frontend development and design. Interested in finance and business, with a growing focus on leveraging technology to create impactful and practical solutions.
 
-### &nbsp;` ✦ STACK `
+---
 
+<div>
+<!-- Languages -->
+<h4>Languages</h4>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
+<h4>Web and Mobile Development</h4>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<div align="center">
-
-![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=ffe566)
-![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=ffe566)
-![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logoColor=ffe566)
-![Java](https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=ffe566)
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=ffe566)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=ffe566)
-![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=ffe566)
-![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=ffe566)
-![Flutter](https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=ffe566)
-![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=ffe566)
+<h4>Tools and Environment</h4>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
 
 </div>
-
 
 ---
 
