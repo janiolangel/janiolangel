@@ -39,52 +39,20 @@ A Computer Science student at the University of the Philippines Visayas with a f
 </div>
 
 ---
-
-### &nbsp;` ✦ PROJECTS `
-
-
-```yaml
-CMSC-131:
-  about: Assembly language coursework — close to the metal, the way I like it
-  tech:  Assembly
-
-Angels Burgers (cmsc127-lab5a):
-  about: A full burger ordering system built as a database lab
-  tech:  JavaScript
-
-Concurrent Banking (CMSC-125):
-  about: Process synchronization and concurrency — the humbling kind
-  tech:  Java · C
-```
-
-<br/>
-
----
-
-### &nbsp;` ✦ STATS `
-
-<br/>
-
-<div align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=janiolangel&theme=react-dark&hide_border=true&area=true&color=ffe566&line=ffd700&point=fff5cc&area_color=ffd700" />
+### &nbsp;` ✦ Stats
+<div>
+  <img src="https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-<br/>
 
-*"She is clothed with strength and dignity,*
-*and she laughs without fear of the future."*
+*"You will succeed in whatever path you choose to do,*
+*and light will shine upon you."*
 <br/>
-**Proverbs 31:25**
+**Job 22:28**
 
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&reversal=true" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a1a2e,100:ffd700&height=120&section=footer&reversal=true" width="100%"/>
 </div>
