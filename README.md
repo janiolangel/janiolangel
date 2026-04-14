@@ -21,7 +21,7 @@ A Computer Science student at the University of the Philippines Visayas with a f
 
 <div>
 <!-- Languages -->
-<h4>Languages</h4>
+<h4>Programming Languages</h4>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
