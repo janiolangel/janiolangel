@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=janiolangel&fontSize=64&fontColor=ffe566&fontAlignY=55&desc=building%20with%20intention%20·%20guided%20by%20faith&descSize=14&descAlignY=75&descFontColor=ffd700&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a1a2e,100:16213e&height=80&section=header&text=janiolangel&fontSize=64&fontColor=ffe566&fontAlignY=55&descSize=14&descAlignY=75&descFontColor=ffd700&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -22,10 +22,9 @@ BS Computer Science  ·  University of the Philippines Visayas  ·  She/Her
 
 ---
 
-### &nbsp;` ✦ WHO I AM `
+### &nbsp;` ✦ Hi, I'm Angel May!
 
-I'm a Computer Science student at UP Visayas — someone who moves quietly but builds with conviction. I'm drawn to the low-level stuff: the assembly, the bits, the things most people don't want to touch. But I care just as much about the human side of software — things that feel good to use, things that matter to people. My faith sits at the center of everything I do. I don't separate who I am from what I make.
-
+A Computer Science student at the University of the Philippines Visayas with a focus on frontend development and design. Interested in finance and business, with a growing focus on leveraging technology to create impactful and practical solutions.
 
 ### &nbsp;` ✦ STACK `
 
