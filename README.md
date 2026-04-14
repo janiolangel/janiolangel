@@ -4,21 +4,11 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@janiolangel-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=ffe566)](https://instagram.com/janiolangel)
-[![Facebook](https://img.shields.io/badge/Angel%20May%20Janiola-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=ffe566)](https://facebook.com/Angel-May-Janiola)
-[![Email](https://img.shields.io/badge/abjaniola@up.edu.ph-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=ffe566)](mailto:abjaniola@up.edu.ph)
+[![Facebook](https://img.shields.io/badge/Angel%20May%20Janiola-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Angel-May-Janiola)
+[![Instagram](https://img.shields.io/badge/@janiolangel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/janiolangel)
+[![Email](https://img.shields.io/badge/abjaniola@up.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abjaniola@up.edu.ph)
 
 </div>
-
-
-<div align="center">
-
-```
-BS Computer Science  ·  University of the Philippines Visayas  ·  She/Her
-```
-</div>
-
-
 
 ---
 
