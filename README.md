@@ -4,9 +4,10 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Angel%20May%20Janiola-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Angel-May-Janiola)
-[![Instagram](https://img.shields.io/badge/@janiolangel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/janiolangel)
-[![Email](https://img.shields.io/badge/abjaniola@up.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abjaniola@up.edu.ph)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abjaniola@up.edu.ph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-may-janiola-1170903aa)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/janiolangel)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 </div>
 
