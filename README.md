@@ -58,4 +58,3 @@ A Computer Science student at the University of the Philippines Visayas with a f
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a1a2e,100:ffd700&height=120&section=footer&reversal=true" width="100%"/>
 </div>
 
-hi
