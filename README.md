@@ -20,12 +20,14 @@ A Computer Science student at the University of the Philippines Visayas with a f
 ---
 
 <div>
+
 <!-- Languages -->
 <h4>Programming Languages</h4>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
+
 <h4>Web and Mobile Development</h4>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,15 +42,24 @@ A Computer Science student at the University of the Philippines Visayas with a f
 </div>
 
 ---
+
 ### &nbsp;` ✦ Stats
-<div>
-  <img src="https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janiolangel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiolangel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janiolangel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-
 
 *"You will succeed in whatever path you choose to do,*
 *and light will shine upon you."*
@@ -56,4 +67,5 @@ A Computer Science student at the University of the Philippines Visayas with a f
 **Job 22:28**
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a1a2e,100:ffd700&height=120&section=footer&reversal=true" width="100%"/>
+
 </div>
