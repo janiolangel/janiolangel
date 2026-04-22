@@ -54,9 +54,10 @@ A Computer Science student at the University of the Philippines Visayas with a f
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janiolangel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true" />
 </div>
 
+<br/>
 ---
 
 <div align="center">
