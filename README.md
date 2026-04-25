@@ -46,17 +46,11 @@ A Computer Science student at the University of the Philippines Visayas with a f
 ### &nbsp;` ✦ Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janiolangel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiolangel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true" />
-</div>
-
 <br/>
 
 <div align="center">
