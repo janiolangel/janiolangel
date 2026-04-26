@@ -23,47 +23,32 @@ I focus on **frontend development and UI/UX design**, with a growing interest in
 
 ## ✦ Tech Stack
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)
-
-**Web & Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-
----
-
-## ✦ Certifications & Achievements
-
-<img width="896" height="635" alt="image" src="https://github.com/user-attachments/assets/a894cebc-a206-4f99-846e-86211616c7eb" />
-
-| Year | Title | Issuer |
-|------|-------|--------|
-| 2026 | 📜 Step into the Workplace: Pre-Internship Seminar | UPV Mathematics Circle |
-
----
-
-## ✦ Featured Projects
-
-> 🚧 More coming soon — currently building portfolio-ready work!
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔗 [Project Name](#) | Short description of what it does and who it's for | `HTML` `CSS` `JS` |
-| 🔗 [Project Name](#) | Short description of what it does and who it's for | `Flutter` `Dart` |
-| 🔗 [Project Name](#) | Short description of what it does and who it's for | `Python` |
+<table align="center" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <th align="center">Languages</th>
+    <th align="center">Web & Mobile</th>
+    <th align="center">Tools</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -79,6 +64,34 @@ I focus on **frontend development and UI/UX design**, with a growing interest in
     <img src="https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true" />
   </a>
 </div>
+
+---
+
+
+## ✦ Certifications & Achievements
+<div>
+  <table border="0" cellpadding="16" cellspacing="0">
+    <tr>
+      <td align="center" style="border: 2px solid #30363d; border-radius: 12px; padding: 16px;">
+        <img width="320" alt="Step into the Workplace Certificate" src="https://github.com/user-attachments/assets/a894cebc-a206-4f99-846e-86211616c7eb" />
+        <br/>
+        <sub><b>📜 Step into the Workplace: Pre-Internship Seminar</b></sub>
+        <br/>
+        <sub>UPV Mathematics Circle · 2026</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## ✦ Featured Projects
+
+> 🚧 More coming soon — currently building portfolio-ready work!
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔗 [Project Name](#) | Short description of what it does and who it's for | `HTML` `CSS` `JS` |
+| 🔗 [Project Name](#) | Short description of what it does and who it's for | `Flutter` `Dart` |
+| 🔗 [Project Name](#) | Short description of what it does and who it's for | `Python` |
 
 ---
 
