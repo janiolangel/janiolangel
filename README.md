@@ -3,12 +3,10 @@
 </div>
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/abjaniola@up.edu.ph-30363d?style=flat-square&logo=gmail&logoColor=D14836)](mailto:abjaniola@up.edu.ph)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/angel-may-janiola-1170903aa)
-[![Facebook](https://img.shields.io/badge/Facebook-30363d?style=flat-square&logo=facebook&logoColor=1877F2)](https://facebook.com/janiolangel)
-[![Discord](https://img.shields.io/badge/janiolangelz.27812-30363d?style=flat-square&logo=discord&logoColor=5865F2)](#)
-
+  <a href="mailto:abjaniola@up.edu.ph"><img src="https://img.shields.io/badge/abjaniola@up.edu.ph-30363d?style=flat-square&logo=gmail&logoColor=D14836" /></a>
+  <a href="https://www.linkedin.com/in/angel-may-janiola-1170903aa"><img src="https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://facebook.com/janiolangel"><img src="https://img.shields.io/badge/Facebook-30363d?style=flat-square&logo=facebook&logoColor=1877F2" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/janiolangelz.27812-30363d?style=flat-square&logo=discord&logoColor=5865F2" /></a>
 </div>
 
 ---
@@ -16,6 +14,7 @@
 ## ✦ About Me
 
 Hi, I'm **Angel May Janiola** 👋
+
 A Computer Science student at the **University of the Philippines Visayas**.
 
 I focus on **frontend development and UI/UX design**, with a growing interest in **finance, business, and product development**. I enjoy building clean, practical, and user-centered solutions that balance both **functionality and design**.
@@ -48,12 +47,13 @@ I focus on **frontend development and UI/UX design**, with a growing interest in
 
 ## ✦ Certifications & Achievements
 
+<img width="896" height="635" alt="image" src="https://github.com/user-attachments/assets/a894cebc-a206-4f99-846e-86211616c7eb" />
+
 | Year | Title | Issuer |
 |------|-------|--------|
 | 2026 | 📜 Step into the Workplace: Pre-Internship Seminar | UPV Mathematics Circle |
 
 ---
-
 
 ## ✦ Featured Projects
 
@@ -67,20 +67,17 @@ I focus on **frontend development and UI/UX design**, with a growing interest in
 
 ---
 
-
 ## ✦ GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=janiolangel&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiolangel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=janiolangel&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janiolangel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
