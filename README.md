@@ -46,6 +46,28 @@ I focus on **frontend development and UI/UX design**, with a growing interest in
 
 ---
 
+## ✦ Certifications & Achievements
+
+| Year | Title | Issuer |
+|------|-------|--------|
+| 2026 | 📜 Step into the Workplace: Pre-Internship Seminar | UPV Mathematics Circle |
+
+---
+
+
+## ✦ Featured Projects
+
+> 🚧 More coming soon — currently building portfolio-ready work!
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔗 [Project Name](#) | Short description of what it does and who it's for | `HTML` `CSS` `JS` |
+| 🔗 [Project Name](#) | Short description of what it does and who it's for | `Flutter` `Dart` |
+| 🔗 [Project Name](#) | Short description of what it does and who it's for | `Python` |
+
+---
+
+
 ## ✦ GitHub Stats
 
 <div align="center">
