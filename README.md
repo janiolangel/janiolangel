@@ -86,13 +86,6 @@ I focus on **frontend development and UI/UX design**, with a growing interest in
 ## ✦ Featured Projects
 
 > 🚧 More coming soon — currently building portfolio-ready work!
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔗 [Project Name](#) | Short description of what it does and who it's for | `HTML` `CSS` `JS` |
-| 🔗 [Project Name](#) | Short description of what it does and who it's for | `Flutter` `Dart` |
-| 🔗 [Project Name](#) | Short description of what it does and who it's for | `Python` |
-
 ---
 
 ## ✦ Currently Exploring
