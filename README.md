@@ -21,7 +21,12 @@
 
 ---
 
-# ✦ About Me
+# About Me
+
+I’m a Computer Science student at **University of the Philippines Visayas** with experience in software development, UI/UX design, and financial management.
+
+I enjoy building clean and practical applications that combine strong functionality with intuitive user experiences. Beyond coding, I’m also interested in product strategy, business systems, and technology-driven solutions that create real impact.
+
 
 ```yaml
 Name: Angel May Janiola
@@ -36,14 +41,9 @@ Current Interests:
   - Business & Finance
   - Building Real-World Systems
 ```
-
-I’m a Computer Science student at **University of the Philippines Visayas** with experience in software development, UI/UX design, and financial management.
-
-I enjoy building clean and practical applications that combine strong functionality with intuitive user experiences. Beyond coding, I’m also interested in product strategy, business systems, and technology-driven solutions that create real impact.
-
 ---
 
-# ✦ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -63,64 +63,8 @@ I enjoy building clean and practical applications that combine strong functional
 
 ---
 
-# ✦ Featured Projects
 
-## 🛒 Angel's Burger — Full-Stack Ordering System
-**HTML • CSS • JavaScript • Firebase**
-
-- Developed a full-stack ordering system with secure authentication
-- Implemented real-time database synchronization for live order tracking
-- Designed responsive and user-friendly interfaces
-
----
-
-## 📱 Rentahanan — Rental Mobile Application
-**Flutter • Firebase**
-
-- Built a rental mobile application with responsive UI
-- Integrated Firebase authentication and cloud database
-- Implemented real-time updates and scalable backend structure
-
----
-
-## ✅ To-Do List App — Task Manager
-**FERN Stack (Firebase • Express • React • Node.js)**
-
-- Created a full-stack productivity application with CRUD operations
-- Managed cloud storage and secure task synchronization
-- Focused on clean UI and efficient task workflows
-
----
-
-# ✦ Experience
-
-### 🎨 UI/UX Designer — Chibis by Celeste
-`2025 – Present`
-
-- Designed mobile interfaces and product visuals in Figma
-- Streamlined design review workflows and asset management
-- Collaborated on branding and digital product presentation
-
-### 💰 Financial Manager — Chibis by Celeste
-`2025 – 2026`
-
-- Managed budgeting, financial tracking, and cash flow analysis
-- Prepared financial reports and projections for business decisions
-- Maintained accurate and confidential financial records
-
----
-
-# ✦ Leadership & Organizations
-
-- **Finance Head** — Kadugong Bol-anon Organization
-- **Assistant Secretary** — Komsai.Org (UPV Computer Science Organization)
-- **Auditor** — UP Modus
-- **Former Finance Head Officer** — Philippine Tarsier Foundation, Inc.
-- **Former SSG Treasurer** — Tagbilaran City Science High School
-
----
-
-# ✦ GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -142,8 +86,65 @@ I enjoy building clean and practical applications that combine strong functional
 
 ---
 
+# Featured Projects
 
-# ✦ Currently Exploring
+## Angel's Burger — Full-Stack Ordering System
+**HTML • CSS • JavaScript • Firebase**
+
+- Developed a full-stack ordering system with secure authentication
+- Implemented real-time database synchronization for live order tracking
+- Designed responsive and user-friendly interfaces
+
+---
+
+## Rentahanan — Rental Mobile Application
+**Flutter • Firebase**
+
+- Built a rental mobile application with responsive UI
+- Integrated Firebase authentication and cloud database
+- Implemented real-time updates and scalable backend structure
+
+---
+
+## To-Do List App — Task Manager
+**FERN Stack (Firebase • Express • React • Node.js)**
+
+- Created a full-stack productivity application with CRUD operations
+- Managed cloud storage and secure task synchronization
+- Focused on clean UI and efficient task workflows
+
+---
+
+# Experience
+
+### UI/UX Designer — Chibis by Celeste
+`2025 – Present`
+
+- Designed mobile interfaces and product visuals in Figma
+- Streamlined design review workflows and asset management
+- Collaborated on branding and digital product presentation
+
+### Financial Manager — Chibis by Celeste
+`2025 – 2026`
+
+- Managed budgeting, financial tracking, and cash flow analysis
+- Prepared financial reports and projections for business decisions
+- Maintained accurate and confidential financial records
+
+---
+
+# Leadership & Organizations
+
+- **Finance Head** — Kadugong Bol-anon Organization
+- **Assistant Secretary** — Komsai.Org (UPV Computer Science Organization)
+- **Auditor** — UP Modus
+- **Former Finance Head Officer** — Philippine Tarsier Foundation, Inc.
+- **Former SSG Treasurer** — Tagbilaran City Science High School
+
+---
+
+
+# Currently Exploring
 
 - Advanced UI/UX systems
 - Full-stack web architecture
@@ -153,7 +154,7 @@ I enjoy building clean and practical applications that combine strong functional
 
 ---
 
-# ✦ Certifications & Achievements
+# Certifications & Achievements
 
 <div align="center">
 
