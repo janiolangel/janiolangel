@@ -7,15 +7,12 @@
 <a href="mailto:abjaniola@up.edu.ph">
   <img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=D14836"/>
 </a>
-
 <a href="https://www.linkedin.com/in/angel-may-janiola-1170903aa">
   <img src="https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-
 <a href="https://github.com/janiolangel">
   <img src="https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://facebook.com/janiolangel">
   <img src="https://img.shields.io/badge/Facebook-30363d?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
 </a>
@@ -126,9 +123,6 @@ I enjoy building clean and practical applications that combine strong functional
 # ✦ GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=janiolangel&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true"/>
 
 </div>
