@@ -168,11 +168,8 @@ UPV Mathematics Circle · 2026
 
 <div align="center">
 
-### ✨ Philosophy
-
 > *"You will succeed in whatever path you choose to do,  
 > and light will shine upon you."*
-
-**— Job 22:28**
+> **— Job 22:28**
 
 </div>
