@@ -120,14 +120,28 @@ I enjoy building clean and practical applications that combine strong functional
 
 ---
 
-# ✦ GitHub Stats
+# ✦ GitHub Analytics
 
 <div align="center">
+
 <img height="170" src="https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true"/>
+
+---
+
+<img src="https://github-profile-trophy.vercel.app/?username=janiolangel&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=janiolangel&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
 
 # ✦ Currently Exploring
 
