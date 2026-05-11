@@ -13,7 +13,7 @@
 
 ## ✦ About Me
 
-Hello, I'm **Angel May Janiola** 👋
+Hi, I'm **Angel May Janiola** 👋
 
 A Computer Science student at the **University of the Philippines Visayas**.
 
