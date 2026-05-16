@@ -85,6 +85,18 @@ Current Interests:
 </div>
 
 ---
+# Certifications & Achievements
+
+<div align="center">
+
+<img width="420" src="https://github.com/user-attachments/assets/a894cebc-a206-4f99-846e-86211616c7eb"/>
+
+### 📜 Step into the Workplace: Pre-Internship Seminar
+UPV Mathematics Circle · 2026
+
+</div>
+
+---
 
 # Featured Projects
 
@@ -143,7 +155,6 @@ Current Interests:
 
 ---
 
-
 # Currently Exploring
 
 - Advanced UI/UX systems
@@ -151,19 +162,6 @@ Current Interests:
 - Product management & fintech
 - Portfolio-grade application development
 - Cloud-based systems and scalability
-
----
-
-# Certifications & Achievements
-
-<div align="center">
-
-<img width="420" src="https://github.com/user-attachments/assets/a894cebc-a206-4f99-846e-86211616c7eb"/>
-
-### 📜 Step into the Workplace: Pre-Internship Seminar
-UPV Mathematics Circle · 2026
-
-</div>
 
 ---
 
