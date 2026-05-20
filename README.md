@@ -68,8 +68,6 @@ Current Interests:
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=janiolangel&theme=tokyonight&hide_border=true"/>
-
 ---
 
 <img src="https://github-profile-trophy.vercel.app/?username=janiolangel&theme=tokyonight&no-frame=true&row=1&column=6"/>
